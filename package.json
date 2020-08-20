@@ -1,0 +1,14 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "main": "index.js",
+  "keywords": [],
+  "author": "{{author}}",
+  "license": "ISC",
+  "bin": {
+    "xwy": "index.js"
+  },
+  "dependencies": {
+  }
+}
